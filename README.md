@@ -1,5 +1,5 @@
 <a href="https://ai-sdk-starter-groq.vercel.app">
-  <h1 align="center">Vercel x Groq Chatbot</h1>
+  <h1 align="center">V11 AI Chatbot</h1>
 </a>
 
 <p align="center">
